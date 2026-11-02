@@ -1,1 +1,6 @@
-console.log("this is git2--testchange");
+function greet() {
+    console.log("this is git2--testchange");
+}
+
+greet();
+
